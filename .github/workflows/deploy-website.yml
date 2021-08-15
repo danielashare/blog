@@ -1,0 +1,36 @@
+name: deploy-website
+
+on:
+  push:
+    branches: [master]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Check out repo
+        uses: actions/checkout@v2
+      # Node is required for npm
+      - name: Set up NodeJS
+        uses: actions/setup-node@v2
+        with:
+          node-version: "12"
+      # Install and build the Docusaurus website
+      - name: Build Docusaurus website
+        run: |
+          npm install
+          npm run build
+      #- name: Transfer CNAME file into build directory
+      #  run: cp CNAME build/
+      - name: Deploy website to GitHub Pages branchs
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: github-pages
+          build_dir: build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
