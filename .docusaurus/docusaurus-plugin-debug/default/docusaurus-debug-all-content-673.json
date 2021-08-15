@@ -1,0 +1,57 @@
+{
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/welcome",
+            "source": "@site/blog/2021-08-15-welcome.md",
+            "title": "Welcome",
+            "description": "My first blog post. I'll delete this soon-ish.",
+            "date": "2021-08-15T00:00:00.000Z",
+            "formattedDate": "August 15, 2021",
+            "tags": [],
+            "readingTime": 0.04,
+            "truncated": false
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "A technical blog about building Bakup.io",
+            "blogTitle": "Daniel Share's Blog"
+          },
+          "items": [
+            "welcome"
+          ]
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}
