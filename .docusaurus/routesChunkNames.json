@@ -31,7 +31,7 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/how-to-send-commands-and-receive-output-from-the-same-bash-process-09f": {
+  "/how-to-send-multiple-commands-and-receive-output-from-the-same-bash-process-558": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---814-6b7",
     "content": "content---how-to-send-commands-and-receive-output-from-the-same-bash-process-820-dcb"

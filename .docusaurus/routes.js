@@ -44,8 +44,8 @@ export default [
     exact: true
   },
   {
-    path: '/how-to-send-commands-and-receive-output-from-the-same-bash-process',
-    component: ComponentCreator('/how-to-send-commands-and-receive-output-from-the-same-bash-process','09f'),
+    path: '/how-to-send-multiple-commands-and-receive-output-from-the-same-bash-process',
+    component: ComponentCreator('/how-to-send-multiple-commands-and-receive-output-from-the-same-bash-process','558'),
     exact: true
   },
   {

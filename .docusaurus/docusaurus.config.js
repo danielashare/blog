@@ -194,7 +194,7 @@ export default {
           "blogDescription": "A technical blog about building Bakup.io"
         },
         "theme": {
-          "customCss": "/Users/danielshare/blog/src/css/custom.css"
+          "customCss": "/home/dan/blog/src/css/custom.css"
         }
       }
     ]
