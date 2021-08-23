@@ -5,7 +5,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/',
-    component: ComponentCreator('/','e9e'),
+    component: ComponentCreator('/','5f9'),
     exact: true
   },
   {
@@ -44,13 +44,13 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page','be1'),
+    path: '/how-to-send-commands-and-receive-output-from-the-same-bash-process',
+    component: ComponentCreator('/how-to-send-commands-and-receive-output-from-the-same-bash-process','09f'),
     exact: true
   },
   {
-    path: '/welcome',
-    component: ComponentCreator('/welcome','677'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page','be1'),
     exact: true
   },
   {

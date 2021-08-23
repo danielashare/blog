@@ -2,8 +2,8 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/welcome"
+      "title": "How to send commands and receive output from the same bash process",
+      "permalink": "/how-to-send-commands-and-receive-output-from-the-same-bash-process"
     }
   ]
 }

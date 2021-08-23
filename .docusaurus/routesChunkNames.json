@@ -1,10 +1,10 @@
 {
-  "/-e9e": {
+  "/-5f9": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---814-6b7",
     "items": [
       {
-        "content": "content---718-ce5"
+        "content": "content---c-32-ad0"
       }
     ],
     "metadata": "metadata---a-55-c63"
@@ -31,13 +31,13 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
+  "/how-to-send-commands-and-receive-output-from-the-same-bash-process-09f": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---814-6b7",
+    "content": "content---how-to-send-commands-and-receive-output-from-the-same-bash-process-820-dcb"
+  },
   "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
-  },
-  "/welcome-677": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---814-6b7",
-    "content": "content---welcomec-4-b-e4c"
   }
 }
