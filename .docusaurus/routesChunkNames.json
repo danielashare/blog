@@ -1,10 +1,10 @@
 {
-  "/-e9e": {
+  "/-f44": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---814-6b7",
     "items": [
       {
-        "content": "content---718-ce5"
+        "content": "content---5-f-9-2f3"
       }
     ],
     "metadata": "metadata---a-55-c63"
@@ -31,13 +31,58 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
+  "/how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process-a9e": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---814-6b7",
+    "content": "content---how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process-59-f-6d5"
+  },
   "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/welcome-677": {
-    "component": "component---theme-blog-post-pageccc-cab",
+  "/tags-c13": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
     "sidebar": "sidebar---814-6b7",
-    "content": "content---welcomec-4-b-e4c"
+    "tags": "tags---tagsc-57-e72"
+  },
+  "/tags/bash-a61": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---814-6b7",
+    "items": [
+      {
+        "content": "content---5-f-9-2f3"
+      }
+    ],
+    "metadata": "metadata---tags-bash-075-c86"
+  },
+  "/tags/c-338": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---814-6b7",
+    "items": [
+      {
+        "content": "content---5-f-9-2f3"
+      }
+    ],
+    "metadata": "metadata---tags-c-025-f17"
+  },
+  "/tags/ipc-363": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---814-6b7",
+    "items": [
+      {
+        "content": "content---5-f-9-2f3"
+      }
+    ],
+    "metadata": "metadata---tags-ipcb-68-b31"
+  },
+  "/tags/shell-079": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---814-6b7",
+    "items": [
+      {
+        "content": "content---5-f-9-2f3"
+      }
+    ],
+    "metadata": "metadata---tags-shell-125-e0f"
   }
 }

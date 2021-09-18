@@ -3,17 +3,34 @@
     "default": {
       "blogPosts": [
         {
-          "id": "welcome",
+          "id": "how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process",
           "metadata": {
-            "permalink": "/welcome",
-            "source": "@site/blog/2021-08-15-welcome.md",
-            "title": "Welcome",
-            "description": "My first blog post. I'll delete this soon-ish.",
-            "date": "2021-08-15T00:00:00.000Z",
-            "formattedDate": "August 15, 2021",
-            "tags": [],
-            "readingTime": 0.04,
-            "truncated": false
+            "permalink": "/how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process",
+            "source": "@site/blog/2021-09-18-How-to-send-commands-and-receive-output-from-the-same-bash-process.md",
+            "title": "How to send multiple commands to and receive output from the same bash process",
+            "description": "",
+            "date": "2021-09-18T00:00:00.000Z",
+            "formattedDate": "September 18, 2021",
+            "tags": [
+              {
+                "label": "bash",
+                "permalink": "/tags/bash"
+              },
+              {
+                "label": "shell",
+                "permalink": "/tags/shell"
+              },
+              {
+                "label": "c++",
+                "permalink": "/tags/c"
+              },
+              {
+                "label": "ipc",
+                "permalink": "/tags/ipc"
+              }
+            ],
+            "readingTime": 2.3,
+            "truncated": true
           }
         }
       ],
@@ -31,12 +48,41 @@
             "blogTitle": "Daniel Share's Blog"
           },
           "items": [
-            "welcome"
+            "how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process"
           ]
         }
       ],
-      "blogTags": {},
-      "blogTagsListPath": null
+      "blogTags": {
+        "bash": {
+          "name": "bash",
+          "items": [
+            "how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process"
+          ],
+          "permalink": "/tags/bash"
+        },
+        "shell": {
+          "name": "shell",
+          "items": [
+            "how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process"
+          ],
+          "permalink": "/tags/shell"
+        },
+        "c": {
+          "name": "c++",
+          "items": [
+            "how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process"
+          ],
+          "permalink": "/tags/c"
+        },
+        "ipc": {
+          "name": "ipc",
+          "items": [
+            "how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process"
+          ],
+          "permalink": "/tags/ipc"
+        }
+      },
+      "blogTagsListPath": "/tags"
     }
   },
   "docusaurus-plugin-content-pages": {

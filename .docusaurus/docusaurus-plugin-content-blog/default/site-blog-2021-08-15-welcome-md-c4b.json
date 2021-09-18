@@ -7,5 +7,9 @@
   "formattedDate": "August 15, 2021",
   "tags": [],
   "readingTime": 0.04,
-  "truncated": false
+  "truncated": false,
+  "prevItem": {
+    "title": "How to send commands and receive output from the same bash process",
+    "permalink": "/how-to-send-commands-and-receive-output-from-the-same-bash-process"
+  }
 }

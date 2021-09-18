@@ -5,7 +5,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/',
-    component: ComponentCreator('/','e9e'),
+    component: ComponentCreator('/','f44'),
     exact: true
   },
   {
@@ -44,13 +44,38 @@ export default [
     exact: true
   },
   {
+    path: '/how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process',
+    component: ComponentCreator('/how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process','a9e'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page','be1'),
     exact: true
   },
   {
-    path: '/welcome',
-    component: ComponentCreator('/welcome','677'),
+    path: '/tags',
+    component: ComponentCreator('/tags','c13'),
+    exact: true
+  },
+  {
+    path: '/tags/bash',
+    component: ComponentCreator('/tags/bash','a61'),
+    exact: true
+  },
+  {
+    path: '/tags/c',
+    component: ComponentCreator('/tags/c','338'),
+    exact: true
+  },
+  {
+    path: '/tags/ipc',
+    component: ComponentCreator('/tags/ipc','363'),
+    exact: true
+  },
+  {
+    path: '/tags/shell',
+    component: ComponentCreator('/tags/shell','079'),
     exact: true
   },
   {
