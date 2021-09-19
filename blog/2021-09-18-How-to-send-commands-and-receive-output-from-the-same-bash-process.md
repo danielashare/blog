@@ -6,7 +6,7 @@ author_title: CTO @ Superbition
 author_url: https://twitter.com/danielashare
 author_image_url: './img/profile.jpeg'
 tags: [bash, shell, c++, ipc]
-image: './img/hero/hero.png'
+image: './img/hero/IPC.png'
 description: ""
 ---
 
