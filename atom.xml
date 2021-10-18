@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://danielshare.co.uk/</id>
+    <title>Daniel Share's Blog Blog</title>
+    <updated>2021-10-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://danielshare.co.uk/"/>
+    <subtitle>Daniel Share's Blog Blog</subtitle>
+    <icon>https://danielshare.co.uk/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Different types of data loss & data disasters that destroy companies]]></title>
+        <id>different-types-of-data-loss-and-disasters-that-destroy-companies</id>
+        <link href="https://danielshare.co.uk/different-types-of-data-loss-and-disasters-that-destroy-companies"/>
+        <updated>2021-10-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data loss takes many different forms and it can happen at anytime, it's best to be aware of the different types of data loss and why it can impact you.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to send multiple commands to and receive output from the same bash process]]></title>
+        <id>how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process</id>
+        <link href="https://danielshare.co.uk/how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process"/>
+        <updated>2021-09-18T00:00:00.000Z</updated>
+    </entry>
+</feed>

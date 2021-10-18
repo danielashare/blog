@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdanielshare_co_uk=self.webpackChunkdanielshare_co_uk||[]).push([[696],{1539:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"c","name":"c++","count":1,"permalink":"/tags/c"}')}}]);

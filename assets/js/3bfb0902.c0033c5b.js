@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdanielshare_co_uk=self.webpackChunkdanielshare_co_uk||[]).push([[495],{4920:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"backups","name":"backups","count":1,"permalink":"/tags/backups"}')}}]);

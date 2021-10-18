@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdanielshare_co_uk=self.webpackChunkdanielshare_co_uk||[]).push([[343],{3266:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ipc","name":"ipc","count":1,"permalink":"/tags/ipc"}')}}]);

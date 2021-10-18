@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdanielshare_co_uk=self.webpackChunkdanielshare_co_uk||[]).push([[659],{8682:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"data-disasters","name":"data disasters","count":1,"permalink":"/tags/data-disasters"}')}}]);
