@@ -4,7 +4,7 @@ slug: different-types-of-data-loss-and-disasters-that-destroy-companies
 author: Daniel Share
 author_title: CTO @ Superbition
 author_url: https://twitter.com/danielashare
-author_image_url: './img/profile.jpeg'
+author_image_url: '/img/profile.jpeg'
 image: './img/hero/data-loss.png'
 hide_table_of_contents: false
 description: "Data loss takes many different forms and it can happen at anytime, it's best to be aware of the different types of data loss and why it can impact you."
